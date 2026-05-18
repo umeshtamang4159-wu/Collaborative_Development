@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.*
+
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules/
+vendor/
+
+# Uploads & sessions
+uploads/
+sessions/
+*.sess
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional frontend build folders
+dist/
+dist-ssr/
